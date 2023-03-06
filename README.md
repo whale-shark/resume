@@ -20,7 +20,7 @@
 * PostgreSQL
 
 ## CI周り
-* GitLab CI
+* GitLab CI/Artifact
 * Bash
 * NexusRepository
 * DependencyCheck
