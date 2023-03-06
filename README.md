@@ -6,15 +6,15 @@
 
 * docker/podman
 * docker-compose
-* k8s
-* Octant
+* Kubernetes(k8s)
+* Octant/Lens
 * Rancher
 * Elasticsearch
 * Kibana
-* Prometeus
-* Garafana
+* Prometheus
+* Grafana
 * Wildfly(jBoss)
-* Infinispan(jBoss DataGrid)
+* Infinispan(jBoss Data Grid)
 * Keycloak(RH-SSO)
 * Kafka
 * PostgreSQL
